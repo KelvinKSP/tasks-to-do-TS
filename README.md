@@ -3,16 +3,23 @@ Examples:
 
 Print 1
 
+
 ![1](https://user-images.githubusercontent.com/89466425/223286927-348745de-7c9b-49f8-9deb-64752a9f17ea.png)
 
 
+Print 2
 
+ 
 ![2](https://user-images.githubusercontent.com/89466425/223286945-b229a6a8-2e60-4371-a53b-64ab3d9c70a8.png)
 
+
+Print 3
 
 
 ![3](https://user-images.githubusercontent.com/89466425/223286953-539f56bc-558e-4919-90eb-f5970b4d3bea.png)
 
+
+Print 4
 
 
 ![4](https://user-images.githubusercontent.com/89466425/223286963-900258b4-23f0-4ca4-a254-83abba62fb94.png)
