@@ -1,0 +1,22 @@
+.footer {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--second-color);
+    color: #fff;
+}
+
+.footer span {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.footer p {
+    margin-top: 20px;
+}
+
+.react {
+    color: #61b0fb !important;
+}
