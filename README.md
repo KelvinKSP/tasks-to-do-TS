@@ -1,3 +1,14 @@
+Examples:  
+
+![1](https://user-images.githubusercontent.com/89466425/223286927-348745de-7c9b-49f8-9deb-64752a9f17ea.png)
+
+![2](https://user-images.githubusercontent.com/89466425/223286945-b229a6a8-2e60-4371-a53b-64ab3d9c70a8.png)
+
+![3](https://user-images.githubusercontent.com/89466425/223286953-539f56bc-558e-4919-90eb-f5970b4d3bea.png)
+
+![4](https://user-images.githubusercontent.com/89466425/223286963-900258b4-23f0-4ca4-a254-83abba62fb94.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
